@@ -16,7 +16,7 @@
 | 📖 **Course Title** | Introduction to Artificial Intelligence |
 | 🎯 **Credits** | 3 |
 | ⏰ **Lecture Hours** | 3 hours per week |
-| 📋 **Prerequisites** | None |
+| 📋 **Prerequisites** | Data Structures, Algorithm Design |
 | 🏷️ **Course Type** | Required/Elective |
 
 ---
@@ -161,7 +161,7 @@ In this course, students will learn the **foundational principles** that drive A
 ![Midterm 2](https://img.shields.io/badge/Midterm%202-20%25-red?style=for-the-badge)
 ![Final](https://img.shields.io/badge/Final-30%25-darkred?style=for-the-badge)
 ![Quizzes](https://img.shields.io/badge/Quizzes-20%25-blue?style=for-the-badge)
-![Assignments](https://img.shields.io/badge/Assignments-10%25-green?style=for-the-badge)
+![Projects](https://img.shields.io/badge/Projects-10%25-green?style=for-the-badge)
 
 </div>
 
@@ -171,7 +171,7 @@ In this course, students will learn the **foundational principles** that drive A
 | 📊 **Midterm Exam 2** | `20%` | 🧠 Covers Weeks 7–10 (Logic, Planning, Probability) |
 | 📋 **Final Exam** | `30%` | 📚 Comprehensive |
 | ❓ **Quizzes (2)** | `20%` | 📝 Quiz 1 (Search), Quiz 2 (Logic & Planning) |
-| 📝 **Assignments (5)** | `10%` | 💻 Short programming/problem-solving tasks |
+| 🚀 **Projects** | `10%` | 💻 Final project and practical implementations |
 
 ---
 
@@ -193,7 +193,7 @@ In this course, students will learn the **foundational principles** that drive A
 <td width="33%">
 
 ### 🌐 **Online Resources**
-- 💻 E-learning platform
+- 💻 [Alfaisal E-Learning Portal](https://elearning.alfaisal.edu/)
 - 📝 Course materials
 - 📊 Supplemental resources
 
@@ -224,6 +224,8 @@ In this course, students will learn the **foundational principles** that drive A
 ### 📢 **Important Notice**
 
 > ⚠️ *This syllabus is subject to change based on course progress and academic calendar adjustments.*
+> 
+> 📋 *For detailed course policies including attendance, academic integrity, and submission guidelines, please see the [Course Policies](syllabus/policies.md) document.*
 
 ---
 
